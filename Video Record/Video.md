@@ -10,4 +10,7 @@
   - CLC: High Quality Program.                                 
  ----------------------------------------------------------------------------------
 
-[MT1003] Electric circuit (Nguyen Phuoc Bao Duy): https://youtube.com/playlist?list=PLZap9NTr3nQFP1ojtUb3UFOE1zylvsdZZ
+[EE1003] Electric circuit (Nguyen Phuoc Bao Duy): https://youtube.com/playlist?list=PLZap9NTr3nQFP1ojtUb3UFOE1zylvsdZZ
+[EE1009] Digital Design (Kim Anh): https://youtube.com/playlist?list=PLZap9NTr3nQGRpPzr32ivIQ-l9JHaBCuW
+[EE2003] Electromagetic Field (Tran Quang Viet) (KTD - DTVT): https://www.youtube.com/playlist?list=PLZap9NTr3nQEy6yrNMl9iehwYZwPf4jqT
+[EE2005] Signals and Systems (Tran Quang Viet) (TDH): https://www.youtube.com/playlist?list=PLZap9NTr3nQEXbge62xEaFkLwJgTbTrkk
